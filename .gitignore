@@ -7,3 +7,25 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+
+# Gradle work
+.gradle
+build
+
+# Maven work
+target
+
+# IntelliJ IDEA work
+*.idea
+*.ipr
+*.iws
+atlassian-ide-plugin.xml
+
+# Android
+local.properties
+
+# Mac OS X
+.DS_Store
+
+# Except .gitignore
+!.gitignore
