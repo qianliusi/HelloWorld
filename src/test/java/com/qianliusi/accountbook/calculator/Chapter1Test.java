@@ -1,8 +1,8 @@
 package com.qianliusi.accountbook.calculator;
 
-import com.qianliusi.accountbook.calculator.com.qianliusi.practice.chapter1.MyString;
-import com.qianliusi.accountbook.calculator.com.qianliusi.practice.chapter1.TimesTable;
-import com.qianliusi.accountbook.calculator.com.qianliusi.practice.chapter1.TrianglePrint;
+import com.qianliusi.practice.chapter1.MyString;
+import com.qianliusi.practice.chapter1.TimesTable;
+import com.qianliusi.practice.chapter1.TrianglePrint;
 import org.junit.Test;
 
 /**

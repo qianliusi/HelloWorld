@@ -1,4 +1,4 @@
-package com.qianliusi.accountbook.calculator.com.qianliusi.practice.chapter1;
+package com.qianliusi.practice.chapter1;
 
 import java.util.ArrayList;
 import java.util.List;

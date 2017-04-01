@@ -1,4 +1,4 @@
-package com.qianliusi.accountbook.calculator.com.qianliusi.practice.chapter1;
+package com.qianliusi.practice.chapter1;
 
 import org.apache.log4j.Logger;
 
