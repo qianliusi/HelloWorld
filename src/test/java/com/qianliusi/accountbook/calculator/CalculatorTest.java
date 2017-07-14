@@ -19,7 +19,7 @@ public class CalculatorTest {
 		String filePath = "D:/poi/账本.xlsx";
 		InputStream inputStream = new FileInputStream(filePath);
 		Workbook wb = WorkbookFactory.create(inputStream);
-		Date date = DateUtil.parseYYYYMMDDDate("2017/04/01");
+		Date date = DateUtil.parseYYYYMMDDDate("2017/07/15");
 		NoteBook noteBook = new NoteBook(wb, new LinearCalculator(), date);
 		noteBook.countExcelY(0,2,1);
 		NoteBook noteBook2 = new NoteBook(wb, new ExponentCalculator(), date);
